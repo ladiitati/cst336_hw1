@@ -1,0 +1,105 @@
+body {
+    background-color: #72c9e4;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    color: white;
+
+}
+
+header, main, nav, footer, section {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    
+}
+
+nav a { /* links within "nav container" */
+    padding: 15px;
+    padding-top: 5em;
+    padding-bottom: 4px;
+    font-size: 2.2em;
+    text-decoration: none; /*remove underlines*/
+    color: #72c9e4;         /*by default, links are blue*/
+}
+
+nav a:hover { /*pseudo class*/
+    border-bottom:2px #eeaec2 solid;
+    font-size: 4em;
+    transition: .8s; /*transition effect*/
+    color: #eeaec2;
+}
+
+.nav{
+    background-color: white;
+}
+
+header {
+    padding: 20px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+}
+
+footer {
+    background-color: white;
+    color: #eeaec2;
+}
+
+div {
+    padding-top: 1em;
+}
+
+section {
+    padding: 1em;
+    padding-top: 2em;
+    color: white;
+}
+
+#stage_main {
+    justify-content: center;
+    font-size: 2em;
+    color: white;
+}
+
+.type_box {
+    padding: 2em;
+    border-style: dotted;
+}
+
+.pic_header {
+    text-align: center;
+}
+
+table {
+    margin: 0px auto;
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong {
+    color:  white;
+}
+
+#table-header {
+    background-color: #F8711E;
+}
+
+.table-row {
+    background-color: #fa995d;
+}
+
+.pro_section {
+    display: flex;
+    justify-content: center;
+    font-size: 1em;
+    color: white;
+
+}
