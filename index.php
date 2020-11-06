@@ -15,10 +15,10 @@
         
         <div class=nav>
             <nav>
-                <a href="index.html" id="home">SDLC</a>
+                <a href="index.php" id="home">SDLC</a>
                 <a href="stages.html">Stages</a>
-                <a href="types.html">SDLC Types</a>
-                <a href="proscons.html">Pros & Cons</a>
+                <a href="types.php">SDLC Types</a>
+                <a href="proscons.php">Pros & Cons</a>
             </nav>
         </div>
         <hr>
