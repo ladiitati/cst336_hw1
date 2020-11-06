@@ -16,7 +16,7 @@
         <div class=nav>
             <nav>
                 <a href="index.php" id="home">SDLC</a>
-                <a href="stages.html">Stages</a>
+                <a href="stages.php">Stages</a>
                 <a href="types.php">SDLC Types</a>
                 <a href="proscons.php">Pros & Cons</a>
             </nav>
