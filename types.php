@@ -54,7 +54,6 @@
             It is used for academic purposes only <br /><br />
             
         </footer>
-        <!-- closing footer -->
         
     </body>
     <!-- closing body -->
